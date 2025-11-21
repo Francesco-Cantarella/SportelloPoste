@@ -3,7 +3,7 @@
  * i clienti alla lista di attesa e genera il numero di attesa
  * rappresenta il produttore
  * @author frida
- * @version 1.0
+ * @version 1
  */
 public class GestoreArrivi implements Runnable {
 

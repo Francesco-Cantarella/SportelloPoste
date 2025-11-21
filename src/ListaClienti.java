@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * da gestire con metodi "synchronized"
  * e con l'uso di wait() e notify()
  * @author frida
- * @version 1.0
+ * @version 1
  */
 public class ListaClienti {
     private ArrayList<Integer> listaNumeri;

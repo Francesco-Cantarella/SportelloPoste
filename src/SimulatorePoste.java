@@ -5,7 +5,7 @@
  * un numero progressivo e stampa il ticket
  * Clienti gestiti da un solo sportello
  * @author frida
- * @version 1.0
+ * @version 1
  */
 public class SimulatorePoste {
     public static void main(String[] args) {

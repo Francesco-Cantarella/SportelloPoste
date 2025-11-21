@@ -5,7 +5,7 @@
  * consumatore delle risorse condivise
  * listaNumeri, ultimoArrivo, ultimoServito
  * @author frida
- * @version 1.0
+ * @version 1
  */
 public class Sportello implements Runnable {
     /**
